@@ -1,1 +1,2 @@
-# Unity
+UnityのSpaceShooterチュートリアルをスマホで動かしたかったので
+CrossPlatformInputを使って実装した時のコード
